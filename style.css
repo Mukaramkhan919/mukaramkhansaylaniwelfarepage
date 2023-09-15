@@ -1,0 +1,398 @@
+.logo{
+   position:relative;
+   left: 140px;
+   top: 0px;
+}
+
+
+
+.conatct{
+    background-color: gainsboro;
+    height: 30px;
+    display: flex;
+    position: relative;
+    
+    
+}
+
+.container-fluid{
+position: absolute;
+top: 20px;
+box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.37);
+
+
+
+}
+
+.nav-item{
+    position: relative;
+    top: 10px;
+}
+
+.img{
+    padding-left: 70px;
+    display: inline-block;
+}
+.tset{
+    display: inline-block;
+    font-weight: 600;
+    padding-left: 7px;
+    font-size: 15px;
+}
+
+
+.english{
+    display: inline-block;
+    font-weight: 600;
+    font-size: 17px;
+    position: absolute;
+    left: 1200px;
+    background-color: white;
+    height: 28px;
+    width: 70px;
+
+
+
+}
+.gary{
+    position: absolute;
+    top: 250px;
+    left: 30px;
+    font-weight: 700;
+    font-size:40px;
+    line-height: 50px;
+    left: 100px;
+}
+
+.color-theme-green{
+    color: rgba(36, 194, 36, 0.596);
+    white-space: pre-line;
+    
+}
+
+.nmer{
+    display: inline-block;
+    position: absolute;
+    left: 700px;
+    top: 120px;
+}
+
+
+.d-flex{
+    position: relative;
+}
+
+.button1{
+  
+   color: black;
+   font-size: 13px;
+   
+    
+}
+
+.button2{
+    font-size: 13px;
+    color: black;
+}
+
+h3{
+    position: relative;
+    top: 315px;
+    left: 100px;
+    font-weight:350 ;
+}
+.hi{
+position: absolute;
+color: black;
+
+}
+
+.hy{
+    position: absolute;
+    color: blue;
+}
+
+.gi{
+    position: absolute;
+    top: 440px;
+    left: 100px;
+    color: rgba(0, 0, 0, 0.589);
+    font-weight: 400;
+    font-size: 17px;
+}
+
+.di{
+    position: absolute;
+    top: 530px;
+    left: 100px;
+    color: rgba(0, 0, 0, 0.589);
+    border-radius: 5px;
+    border:1px solid black ;
+    width: 170px;
+    height: 40px;
+    background-color: white;
+
+}
+
+
+.vip{
+    position: absolute;
+    left: 100px;
+    top: 660px;
+    width: 80%;
+    height: 150px;
+    border: 1px solid greenyellow;
+    border-radius: 8px;
+    background-color: rgba(119, 211, 15, 0.171);
+}
+
+
+
+.fr{
+    position: relative;
+    border-radius: 5px;
+    top: 60px;
+    left:25px ;
+    width: 170px;
+    height: 40px;
+    color: white;
+    background-color: black;
+    font-weight: 500;
+
+}
+
+.fg{
+    border-radius: 5px;
+    position: relative;
+    top: 40px;
+    left:35px ;
+    width: 300px;
+    height: 40px;
+    color: black;
+    background-color: white;
+    border: none;
+    font-weight: 500;
+}
+
+.fd{
+    border-radius: 5px;
+    position: absolute;
+    top: 100px;
+    left:210px ;
+    background-color: rgba(16, 172, 16, 0.521);
+    color: white;
+    font-weight: 500;
+    width: 150px;
+    height: 40px;
+    border: none;
+    
+
+    
+}
+fd:hover{
+
+
+
+}
+.fc{
+    font-weight: 500;
+    border-radius:5px;
+    position: absolute;
+    top: 40px;
+    left:600px;
+    height: 40px;
+    border: none;
+    background-color: white;
+    
+
+}
+
+.fe{
+    font-weight: 500;
+    border-radius:5px;
+    position: absolute;
+    top: 40px;
+    left:750px;
+    height: 40px;
+    width: 130px;
+    border: none;
+    background-color: white;
+}
+.ft{
+    position: absolute;
+    top: 40px;
+    left:900px;
+    height: 40px;
+    width: 100px;
+    border-radius:5px;
+    font-weight: 500;
+    border: none;
+    background-color: white;
+}
+.fe:hover{
+    color:white ;
+    background-color: black;
+}
+.ft:hover{
+    color:white ;
+    background-color: black;
+    font-size: 20px;
+    width: 120px;
+}
+.fc:hover{
+    color:white ;
+    background-color: black;
+    font-size: 20px;
+    width: 120px;
+}
+
+.fg:hover{
+    color:white ;
+    background-color: black;
+    font-size: 20px;
+    font-size: 20px;
+    width: 300px;
+}
+
+.carousel-image{
+    position: absolute;
+    top: 850px;
+    width: 80%;
+    height: 650px;
+    left: 100px;
+    border-radius: 8px;
+}
+
+.df{
+    position: absolute;
+    top: 1540px;
+    left: 500px;
+    font-weight: 700;
+    font-size: 30px;
+}
+
+.fgty{
+    
+    position:relative;
+    top: 1450px;
+
+ 
+    
+}
+
+.service-icon0 {
+    position: absolute;
+    left: 100px;
+  
+    background-color: rgba(16, 172, 16, 0.158);
+    flex-direction:column;
+    border-radius:5px;
+
+}
+.service-icon0:hover{
+    background-color: darkkhaki;
+}
+.service-icon1 {
+    position: absolute;
+    left: 270px;;
+    background-color: rgba(16, 172, 16, 0.158);
+    flex-direction:column;
+    border-radius:5px;
+
+}
+.service-icon1:hover{
+    background-color: darkkhaki;
+}
+.service-icon2 {
+    position: absolute;
+    left: 440px;
+    background-color: rgba(16, 172, 16, 0.158);
+    flex-direction:column;
+    border-radius:5px;
+
+}
+.service-icon2:hover{
+    background-color: darkkhaki;
+}
+
+.service-icon3 {
+    position: absolute;
+    left: 610px;
+    background-color: rgba(16, 172, 16, 0.158);
+    flex-direction:column;
+    border-radius:5px;
+
+}
+.service-icon3:hover{
+    background-color: darkkhaki;
+}
+
+.service-icon4 {
+    position: absolute;
+    left: 780px;
+    background-color: rgba(16, 172, 16, 0.158);
+    flex-direction:column;
+    border-radius:5px;
+
+}
+.service-icon4:hover{
+    background-color: darkkhaki;
+}
+
+.service-icon5 {
+
+    position: absolute;
+    left: 960px;
+    background-color: rgba(16, 172, 16, 0.158);
+    flex-direction:column;
+    border-radius:5px;
+    
+}
+.service-icon5:hover{
+    background-color: darkkhaki;
+}
+
+
+
+.card{
+    position: absolute;
+    top: 1500px;
+    justify-content: space-between;
+    position: relative;
+    
+    }
+
+    .card-text{
+        font-weight: 800px;
+       font-size: large;
+       font-family: sans-serif;
+
+    }
+    .gij{
+        position: absolute;
+        left: 100px;
+    }
+
+    .bgh{
+        position: absolute;
+        left: 800px;
+    }
+
+    .dfhg{
+        position: absolute;
+        left: 450px;
+    }
+
+
+    .wer{
+        position: absolute;
+        top: 2200px;
+        left: 200px;
+        border-radius: 8px;
+    }
+
+    .yht{
+        position: absolute;
+        top: 2900px;
+    }
+   
